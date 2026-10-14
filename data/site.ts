@@ -5,8 +5,8 @@ export const siteConfig = {
   bio: "Full Stack Developer with 2+ years of experience in React.js, Next.js, and Web3. I build large-scale government systems, healthcare analytics platforms, and blockchain applications, and ship backend APIs with Node.js, Flask, and Django.",
   email: "iabdulsamadhashmi@gmail.com",
   phone: "+92 318 636 1155",
-  linkedin: "https://linkedin.com/in/abdulsamadhashmi",
-  github: "https://github.com/abdulsamadhashmi",
+  linkedin: "https://www.linkedin.com/in/abdul-samad-hashmi-41599221b",
+  github: "https://github.com/SamadHashmi",
   location: "Lahore, Pakistan",
   calendly: "https://calendly.com/abdulsamadhashmi",
   nav: [
